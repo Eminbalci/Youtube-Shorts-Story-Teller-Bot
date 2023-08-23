@@ -18,9 +18,13 @@ and install imagemagick
 https://imagemagick.org/
 
 Folder Structure:
+
 Create a folder structure as shown below:
+
 c:\videos\ (folder containing video files)
+
 c:\output\ (folder for output files)
+
 and the script file wherever you want
 
 Provide Text Input:
