@@ -21,11 +21,13 @@ Folder Structure:
 
 Create a folder structure as shown below:
 
-c:\videos\ (folder containing video files)
+c:\videos\ (folder containing background video files)
 
 c:\output\ (folder for output files)
 
 and the script file wherever you want
+
+Before running the scirpt you should provide some background videos, it can be 9:16 or 16:9 and if they are 16:9 then the bot will crop the video and make it 9:16
 
 Provide Text Input:
 After running the script, it will prompt you to enter the text you want to be voiced. Enter the desired text and press Enter.
